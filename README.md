@@ -30,7 +30,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+<img width="900" height="588" alt="image" src="https://github.com/user-attachments/assets/186c82d3-9138-44c9-b091-2cff6c7935c7" />
 
 
 
@@ -59,11 +59,11 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ## TABULATION/OBSERVATION
 
 
-<img width="541" height="201" alt="image" src="https://github.com/user-attachments/assets/656e4928-b7f3-4de3-85dc-628b99798837" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3e9c4564-b10b-4b8f-9532-082d840d17b8" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="601" height="669" alt="image" src="https://github.com/user-attachments/assets/0d15e809-afef-4cbe-8335-2bee47620ce2" />
+<img width="900" height="588" alt="image" src="https://github.com/user-attachments/assets/186c82d3-9138-44c9-b091-2cff6c7935c7" />
 
 
 ---
@@ -92,7 +92,6 @@ WIEN BRIDGE OSCILLATOR
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
 
 ---
 
@@ -121,11 +120,11 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
-<img width="517" height="255" alt="image" src="https://github.com/user-attachments/assets/327ca3eb-8fd9-48ef-9899-efdcc170264c" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ddd9f19-92c1-467b-a3c9-1506c04041ea" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-<img width="677" height="618" alt="image" src="https://github.com/user-attachments/assets/98965852-1981-4523-b417-a420e74502b8" />
+<img width="900" height="631" alt="image" src="https://github.com/user-attachments/assets/bb1a927f-8803-47f6-b9da-293719e5effa" />
 
 
 ---
